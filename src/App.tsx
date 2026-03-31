@@ -64,16 +64,16 @@ Gunakan formula berikut untuk variasi Hook:
     * *Talent A (Arabic/English)*: "..." (translate: ...)
     * *Talent B (Arabic/English)*: "..." (translate: ...)
 * **Filming Properties**: List all physical objects in the frame (e.g., Al-Qur'an, books, etc.).
-* **DOP (Director of Photography)**:
-    - **Shot Size**: (misal: Close Up, Medium Shot, Wide Shot)
-    - **Camera Angle**: (misal: Eye Level, High Angle, Low Angle)
-    - **Camera Movement**: (misal: Static, Pan, Tilt, Tracking)
+* **3 point of DOP (Director of Photography)**:
+    - **Shot Size**: (misal: Close Up, Medium Shot, Wide Shot dan deskripsikan siapa/apa target/objek)
+    - **Camera Angle**: (misal: Eye Level, High Angle, Low Angle dan deskripsikan siapa/apa target/objek)
+    - **Camera Movement**: (misal: Static, Pan, Tilt, Tracking dan deskripsikan siapa/apa target/objek)
 * **AUDIO ATMOSPHERE**: Suggested Vocal-only Nasheed or Sound Effects (e.g., rain, footsteps, school bell).
 * **School Name**: Al Wafi International Islamic Boarding School or Al Wafi IIBS or WIIBS.
 * **Setting**: Specific location within WIIBS (Mosque, Library, Court, Class, etc.).
 
-you must make each scene has many or few of shoot, so the filming are smooth step ang be better!!!
-at each scene, Change the DOP and AUDIO ATMOSPHERE is to be a table and each shoot!!! column the table are: Number shoot | Description | Shot Size | Angle | Movement | Audio Atmosphere
+you must make each scene has many or few of shoot, so the filming are smooth step and be better!!! each shoot has a 3 point of DOP
+
 
 
 Tone of Voice: Persuasif, santai, namun tetap profesional sesuai dengan citra sekolah. Hindari kalimat yang terlalu panjang atau bertele-tele. Provide the final script output in Indonesian, but incorporate Islamic phrases (e.g., Bismillah, Alhamdulillah, MasyaaAllah, Subhanallah, etc.).
