@@ -23,7 +23,7 @@ You are an expert Director and Professional Scriptwriter. Your task is to transf
 
 ### ABSOLUTE CONSTRAINTS & IDENTITY (BANAT DIVISION):
 
-1. Role & Audience: I am the Head of Media. The target audience is Parents and Prospective Parents of students.
+1. Role & Audience: I am the Student Content Creator Team. The target audience is Parents and Prospective Parents of students.
 2. Subject (Banat/Female Division):
    - Visual Representation: All female talents (Students or Teachers) MUST be shown wearing a Niqab (face veil).
    - Talent Interaction: Ensure all movements and actions remain modest and Sharia-compliant.
@@ -98,7 +98,7 @@ ${idea}
       }
     } catch (error) {
       console.error('Error generating script:', error);
-      setScript('Maaf, terjadi kesalahan saat membuat naskah. Silakan coba lagi.');
+      setScript('Afwan, sepertinya sedang High-Demand. Tunggu semenit dan coba lagi ya.');
     } finally {
       setIsLoading(false);
     }
@@ -135,7 +135,7 @@ ${idea}
               </div>
               
               <p className="text-sm text-stone-500 mb-4">
-                Tuliskan ide sederhana Anda, dan AI akan mengubahnya menjadi naskah produksi profesional untuk WIIBS.
+                Halo Hasna, Mia, Kayla dan Nalin, apa ide mu kali ini, coba tulis disini, nanti kita buatin naskahnya.
               </p>
 
               <textarea
@@ -176,7 +176,7 @@ ${idea}
                     className="flex items-center gap-1.5 text-sm text-stone-500 hover:text-stone-900 transition-colors px-3 py-1.5 rounded-md hover:bg-stone-100"
                   >
                     {copied ? <Check className="w-4 h-4 text-emerald-600" /> : <Copy className="w-4 h-4" />}
-                    {copied ? 'Tersalin!' : 'Salin Naskah'}
+                    {copied ? 'Tersalin!' : 'Salin Naskahnya'}
                   </button>
                 )}
               </div>
@@ -186,7 +186,7 @@ ${idea}
                   <div className="h-full flex flex-col items-center justify-center text-stone-400 space-y-4">
                     <Film className="w-12 h-12 opacity-20" />
                     <p className="text-sm text-center max-w-sm">
-                      Naskah produksi Anda akan muncul di sini. Silakan masukkan ide konten di panel sebelah kiri.
+                      Naskahmu akan muncul di sini. Silakan masukin ide kontenmu di panel sebelah kiri.
                     </p>
                   </div>
                 ) : (
