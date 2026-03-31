@@ -72,6 +72,10 @@ Gunakan formula berikut untuk variasi Hook:
 * **School Name**: Al Wafi International Islamic Boarding School or Al Wafi IIBS or WIIBS.
 * **Setting**: Specific location within WIIBS (Mosque, Library, Court, Class, etc.).
 
+you must make each scene has many or few of shoot, so the filming are smooth step ang be better!!!
+at each scene, Change the DOP and AUDIO ATMOSPHERE is to be a table and each shoot!!! column the table are: Number shoot | Description | Shot Size | Angle | Movement | Audio Atmosphere
+
+
 Tone of Voice: Persuasif, santai, namun tetap profesional sesuai dengan citra sekolah. Hindari kalimat yang terlalu panjang atau bertele-tele. Provide the final script output in Indonesian, but incorporate Islamic phrases (e.g., Bismillah, Alhamdulillah, MasyaaAllah, Subhanallah, etc.).
 Talent: Always female with Islamic names.
 
