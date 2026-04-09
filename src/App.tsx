@@ -135,7 +135,7 @@ ${idea}
               </div>
               
               <p className="text-sm text-stone-500 mb-4">
-                Halo Hasna, Mia, Kayla dan Nalin, apa ide mu kali ini, coba tulis disini, nanti kita buatin naskahnya.
+                Assalamu'alaikum, hai Hasna, Mia, Kayla dan Nalin, apa ide mu kali ini, coba tulis disini, nanti kita buatin naskahnya.
               </p>
 
               <textarea
